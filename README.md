@@ -9,7 +9,6 @@ It takes about 20 minutes. You need a laptop with Chrome, Edge or Safari.
 | | |
 |---|---|
 | **Lumen Hub** | <https://lumen-hub.up.railway.app> |
-| **Register for your account** | [Registration form](https://bytedance.sg.larkoffice.com/share/base/form/shrlgnm5y4Q7am7IHnDr4DfYtmg) |
 | **This guide** | <https://github.com/mittulmadaan/creative-models-on-aws-handson> |
 
 ---
