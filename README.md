@@ -15,13 +15,10 @@ It takes about 20 minutes. You need a laptop with Chrome, Edge or Safari.
 
 ## 1. Get your BytePlus account and API key
 
-1. **Register.** Open the
-   [registration form](https://bytedance.sg.larkoffice.com/share/base/form/shrlgnm5y4Q7am7IHnDr4DfYtmg),
-   and submit your details.
-2. **Check your email.** We create a BytePlus account for you and send a
-   registration link. Complete the registration; **$50 of credit** is loaded
-   on the account for you to test with.
-3. **Create an API key.** Sign in at
+1. **Check your email.** Once you have registered, we create a BytePlus
+   account for you and send a registration link. Complete the registration;
+   **$50 of credit** is loaded on the account for you to test with.
+2. **Create an API key.** Sign in at
    [console.byteplus.com/ark](https://console.byteplus.com/ark), open
    **API Keys**, choose **Create API Key**, and copy it. Keep it to yourself:
    anything made with it is billed to your account.
